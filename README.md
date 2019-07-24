@@ -1,2 +1,2 @@
 # Software-Engineering-Ethics-InteractiveGame
-Project for Introduction to Software engineerinh
+Project for Introduction to Software engineering
