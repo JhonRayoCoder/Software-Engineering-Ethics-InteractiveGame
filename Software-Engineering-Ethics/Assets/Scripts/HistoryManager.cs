@@ -20,14 +20,19 @@ public class HistoryManager : MonoBehaviour
     [SerializeField]
     private GameObject rightPanel;
 
+    private GameObject obj;
+
+
+    [SerializeField]
+    private string story;
+
+    private Manager manager;
+
     private TextMeshProUGUI text;
 
     private Image left;
 
     private Image right;
-
-    private string storyChapter1 = "Tres amigos decidieron emprender y abrieron su propia empresa para desarrollar software.Estaban teniendo problemas para conseguir clientes, por lo que la " +
-        "empresa estaba cerca de la quiebra.\nSin embargo, un dia aparecio alguien que queria una aplicacion para vender bienes de procedencia sospechosa.";
 
     private int index = 0;
 
@@ -43,10 +48,12 @@ public class HistoryManager : MonoBehaviour
     
     void Start()
     {
+        obj = GameObject.Find("Manager");
         text = canvasHolder.GetComponent<TextMeshProUGUI>();
         text.text = string.Empty;
         left = leftPanel.GetComponent<Image>();
         right = rightPanel.GetComponent<Image>();
+        manager = obj.GetComponent<Manager>();
         leftPanel.SetActive(false);
         rightPanel.SetActive(false);
     }
@@ -84,7 +91,7 @@ public class HistoryManager : MonoBehaviour
                 }
                 else
                 {
-                    Debug.Log("right");
+                    manager.next(true);
                 }
             }
 
@@ -96,9 +103,9 @@ public class HistoryManager : MonoBehaviour
     private IEnumerator startTellingStory(float wait)
     {
         started = true;
-        while (index < storyChapter1.Length)
+        while (index < story.Length)
         {
-            text.text += storyChapter1[index];
+            text.text += story[index];
             yield return new WaitForSeconds(wait);
             ++index;
         }
