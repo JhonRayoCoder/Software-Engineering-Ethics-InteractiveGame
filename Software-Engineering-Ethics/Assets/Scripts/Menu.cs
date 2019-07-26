@@ -10,5 +10,15 @@ public class Menu : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
+
+    public void cargarInstrucciones()
+    {
+        SceneManager.LoadScene("Instrucciones");
+    }
+
+    public void mainMenu()
+    {
+        SceneManager.LoadScene(0);
+    }
     
 }

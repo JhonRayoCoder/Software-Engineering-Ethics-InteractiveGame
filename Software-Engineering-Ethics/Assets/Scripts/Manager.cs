@@ -41,12 +41,12 @@ public class Manager : MonoBehaviour
         {
             ++score;
             chapter = chapter * 2;
-            SceneManager.LoadScene(chapter.ToString());
         } else
         {
             chapter = (chapter * 2) + 1;
-            SceneManager.LoadScene(chapter.ToString());
         }
+
+        SceneManager.LoadScene(chapter.ToString());
     }
 
     public string getStory()
