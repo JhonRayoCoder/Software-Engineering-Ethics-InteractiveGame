@@ -216,8 +216,7 @@ PrefabInstance:
     - target: {fileID: 7325768078290989701, guid: 5a4374d959521f648ab5cf3958e96e25,
         type: 3}
       propertyPath: story
-      value: En el afan de conseguir capital, un socio te propone copiar el software
-        de la competencia, y te pide que lo ayudes con eso.
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a4374d959521f648ab5cf3958e96e25, type: 3}
@@ -421,6 +420,42 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.spaceCount
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.pageCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_text
+      value: Escribir un software alterno y echar al socio que sugirio la idea de
+        copiar
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_firstOverflowCharacterIndex
+      value: 12
+      objectReference: {fileID: 0}
     - target: {fileID: 5317679343546994528, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.characterCount
@@ -480,42 +515,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_firstOverflowCharacterIndex
       value: 17
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.characterCount
-      value: 75
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.spaceCount
-      value: 13
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.wordCount
-      value: 14
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.lineCount
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.pageCount
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_text
-      value: Escribir un software alterno y echar al socio que sugirio la idea de
-        copiar
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_firstOverflowCharacterIndex
-      value: 12
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f1dd228a9015bd84c93e8f28861dbc84, type: 3}

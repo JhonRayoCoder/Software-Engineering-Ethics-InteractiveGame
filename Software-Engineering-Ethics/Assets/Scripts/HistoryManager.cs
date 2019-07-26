@@ -20,11 +20,10 @@ public class HistoryManager : MonoBehaviour
     [SerializeField]
     private GameObject rightPanel;
 
-    private GameObject obj;
-
-
     [SerializeField]
-    private string story;
+    private bool leftDecisionIsCorrect;
+
+    private GameObject obj;
 
     private Manager manager;
 
@@ -35,6 +34,8 @@ public class HistoryManager : MonoBehaviour
     private Image right;
 
     private int index = 0;
+
+    private string story;
 
     private IEnumerator coroutine;
 
@@ -56,6 +57,7 @@ public class HistoryManager : MonoBehaviour
         manager = obj.GetComponent<Manager>();
         leftPanel.SetActive(false);
         rightPanel.SetActive(false);
+        story = manager.getStory();
     }
 
     void Update()
@@ -87,11 +89,11 @@ public class HistoryManager : MonoBehaviour
             {
                 if (onLeft)
                 {
-                    Debug.Log("Left");
+                    manager.makeDecision(leftDecisionIsCorrect);
                 }
                 else
                 {
-                    manager.next(true);
+                    manager.makeDecision(!leftDecisionIsCorrect);
                 }
             }
 
