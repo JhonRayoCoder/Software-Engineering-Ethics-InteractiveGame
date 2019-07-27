@@ -519,7 +519,7 @@ PrefabInstance:
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_text
-      value: Estas de acuerdo con el socio, y copias el programa de la competencia
+      value: Estar de acuerdo con el socio, y copiar el programa de la competencia
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}

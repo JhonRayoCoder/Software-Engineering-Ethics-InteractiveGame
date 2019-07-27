@@ -10,12 +10,12 @@ public class Manager : MonoBehaviour
     private int score = 0;
 
     private string[] story = {
-        "Tu y dos socios deciden emprender y abren una consultora de software. Conseguir clientes esta complicado, pero un dia por fin aparece alguien quien necesita una " +
-            "aplicacion para vender items de procedencia sospechosa.",
-        "En el afan de conseguir capital, un socio te propone copiar el software de la competencia, y te pide que lo ayudes con eso.",
+        "Tu y un socio deciden emprender y abren una consultora de software. Conseguir clientes esta complicado, pero un dia por fin aparece alguien quien necesita una " +
+            "aplicacion para vender bienes de procedencia sospechosa.",
+        "En el afan de conseguir capital, tu socio te propone copiar el software de la competencia, y te pide que lo ayudes con eso.",
         "FIN",
         "El software alterno que decidiste escribir excedia las capacidades de tu equipo, por lo que tomo bastante tiempo terminar y entregar el proyecto. El cliente no estaba " +
-            "muy feliz pero el programa parecia funcionar. Sin embargo, pasadas unas semanas, presento un fallo.",
+            "muy feliz, pero el programa parecia funcionar. Sin embargo, pasadas unas semanas, presento un fallo.",
         "",
         "",
         "",
@@ -29,7 +29,25 @@ public class Manager : MonoBehaviour
         "",
         "",
         "Dadas las buenas decisiones que has tomado a pesar de las adversidades, tu empresa es todo un exito. Los clientes no dejan de llegar. No obstante, un escandalo impacta al pais." +
-            "Se expande el rumor de discriminacion en ciertas contrataciones. Tu empresa esta en el hojo del huracan dada la falta de mujeres en la empresa"};
+            "Se expande el rumor de discriminacion en ciertas contrataciones. Tu empresa esta en el ojo del huracan dada la falta de mujeres en la empresa",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "La empresa ha logrado superar todas las dificultades con las que se ha enfrentado. Has sido un muy buen lider. Un dia, te das cuenta que uno de tus mejores empleados ha estado saboteando" +
+            "el trabajo de un recien ingresado.",
+        };
 
     public void Start()
     {

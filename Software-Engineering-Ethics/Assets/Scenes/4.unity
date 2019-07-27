@@ -499,22 +499,22 @@ PrefabInstance:
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.characterCount
-      value: 89
+      value: 98
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.spaceCount
-      value: 14
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.wordCount
-      value: 15
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.lineCount
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
@@ -524,8 +524,8 @@ PrefabInstance:
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_text
-      value: Ofreces garantia, pero buscas a un tercero para arreglar el problema
-        para no tardar tanto
+      value: Ofrecer garantia, pero buscar a un tercero para arreglar el problema
+        con el fin de no tardar tanto
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
