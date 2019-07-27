@@ -17,7 +17,7 @@ public class Manager : MonoBehaviour
         "FIN",
         "El software alterno que decidiste escribir excedia las capacidades de tu equipo, por lo que tomo bastante tiempo terminar y entregar el proyecto. El cliente no estaba " +
             "muy feliz, pero el programa parecia funcionar. Sin embargo, pasadas unas semanas, presento un fallo.",
-        "",
+        "Esta mala decision te lleva a juicio. ...",
         "",
         "",
         "El cliente queda satisfecho y se expande el exito de la empresa. Un dia, otro cliente busca un programa para optimizar operaciones en su empresa. Sin embargo, cuando lees los " +
