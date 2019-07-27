@@ -49,6 +49,11 @@ public class Manager : MonoBehaviour
         SceneManager.LoadScene(chapter.ToString());
     }
 
+    public int getScore()
+    {
+        return score;
+    }
+
     public string getStory()
     {
         return story[chapter - 1];
