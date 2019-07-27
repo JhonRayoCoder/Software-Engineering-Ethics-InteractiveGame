@@ -7,6 +7,7 @@ public class Manager : MonoBehaviour
 {
 
     private int chapter = 1;
+    private int counter = 1;
     private int score = 0;
 
     private string[] story = {
@@ -46,8 +47,42 @@ public class Manager : MonoBehaviour
         "",
         "",
         "La empresa ha logrado superar todas las dificultades con las que se ha enfrentado. Has sido un muy buen lider. Un dia, te das cuenta que uno de tus mejores empleados ha estado saboteando" +
-            "el trabajo de un recien ingresado.",
+            " el trabajo de un recien ingresado.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Han pasado los años y ya estas cerca de retirarte. Un dia tu esposa te reclama sobre una trabajadora de la empresa, pues parece ser que te esta cayendo, sin embargo, tu sabes que eso no es asi.",
         };
+
+    private int[] finalChapterArray = { 128, 129 };
 
     public void Start()
     {
@@ -64,12 +99,33 @@ public class Manager : MonoBehaviour
             chapter = (chapter * 2) + 1;
         }
 
+        if (final(chapter))
+        {
+            SceneManager.LoadScene("GameOver");
+            return;
+        }
+        ++counter;
         SceneManager.LoadScene(chapter.ToString());
+    }
+
+    private bool final(int c)
+    {
+        foreach (int i in finalChapterArray)
+        {
+            if (i == c)
+                return true;
+        }
+        return false;
     }
 
     public int getScore()
     {
         return score;
+    }
+
+    public int getCounter()
+    {
+        return counter;
     }
 
     public string getStory()
