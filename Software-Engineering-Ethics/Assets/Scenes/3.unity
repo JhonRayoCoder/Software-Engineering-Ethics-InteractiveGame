@@ -433,22 +433,22 @@ PrefabInstance:
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.characterCount
-      value: 75
+      value: 92
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.spaceCount
-      value: 13
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.wordCount
       value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
       propertyPath: m_textInfo.lineCount
-      value: 5
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
@@ -458,8 +458,8 @@ PrefabInstance:
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_text
-      value: Escribir un software alterno y echar al socio que sugirio la idea de
-        copiar
+      value: Rechazar la oferta siendo sincero con el cliente respecto a los conocimientos
+        que se tienen.
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
@@ -494,22 +494,22 @@ PrefabInstance:
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.characterCount
-      value: 69
+      value: 89
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.spaceCount
-      value: 12
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.wordCount
-      value: 13
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.lineCount
-      value: 5
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
@@ -519,12 +519,13 @@ PrefabInstance:
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_text
-      value: Estar de acuerdo con el socio, y copiar el programa de la competencia
+      value: Mentir diciendo que se tiene el conocimiento necesario para desarrollar
+        dicho aplicativo.
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_firstOverflowCharacterIndex
-      value: 17
+      value: 16
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f1dd228a9015bd84c93e8f28861dbc84, type: 3}

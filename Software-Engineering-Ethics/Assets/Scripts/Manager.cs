@@ -14,12 +14,12 @@ public class Manager : MonoBehaviour
         "Tu y un socio deciden emprender y abren una consultora de software. Conseguir clientes esta complicado, pero un dia por fin aparece alguien quien necesita una " +
             "aplicacion para vender bienes de procedencia sospechosa.",
         "En el afan de conseguir capital, tu socio te propone copiar el software de la competencia, y te pide que lo ayudes con eso.",
-        "FIN",
+        "Después de algunos meses de incertidumbre llega otro cliente el cual pide desarrollar un aplicativo utilizando herramientas en las que ninguno de los empleados de la compañía tiene conocimiento.",
         "El software alterno que decidiste escribir excedia las capacidades de tu equipo, por lo que tomo bastante tiempo terminar y entregar el proyecto. El cliente no estaba " +
             "muy feliz, pero el programa parecia funcionar. Sin embargo, pasadas unas semanas, presento un fallo.",
-        "Esta mala decision te lleva a juicio. ...",
-        "",
-        "",
+        "Las autoridades han notado tu intento de plagio al robar el aplicativo, al empezar el proceso judicial se piden los archivos de desarrollo del proyecto, sin embargo un compañero de trabajo se anticipó a la situación y decidió eliminar tales archivos, tú sabes quién lo hizo.",
+        "El cliente ha decidido contratarlos a pesar de no tener el conocimiento, les pide obtenerlo y les da tiempo extra con el fin de tener su aplicativo; sin embargo al terminar el proyecto se dan cuenta que uno de los requerimientos del aplicativo no se cumple.",
+        "Ha llegado un nuevo cliente, el quiere un aplicativo simple que sin embargo de manera indirecta promueve la contaminación del medio ambiente.",
         "El cliente queda satisfecho y se expande el exito de la empresa. Un dia, otro cliente busca un programa para optimizar operaciones en su empresa. Sin embargo, cuando lees los " +
             "requerimientos te das cuenta que el proposito es evadir impuestos.",
         "",

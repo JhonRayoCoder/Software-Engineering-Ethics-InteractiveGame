@@ -438,22 +438,22 @@ PrefabInstance:
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.characterCount
-      value: 79
+      value: 57
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.spaceCount
-      value: 14
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.wordCount
-      value: 15
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.lineCount
-      value: 6
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
@@ -463,13 +463,12 @@ PrefabInstance:
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_text
-      value: "No hacer nada con la esperanza de que la investigaci\xF3n no llegue
-        a ning\xFAn lado."
+      value: Denunciar al cliente con las autoridades correspondientes
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_firstOverflowCharacterIndex
-      value: 14
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343546994528, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
@@ -499,17 +498,17 @@ PrefabInstance:
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.characterCount
-      value: 79
+      value: 54
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.spaceCount
-      value: 14
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.wordCount
-      value: 15
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
@@ -524,13 +523,12 @@ PrefabInstance:
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_text
-      value: "Denunciar a tu compa\xF1ero de trabajo con el fin de reducir los cargos
-        contra ti."
+      value: Realizar el proyecto sin importar el impacto ambiental
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_firstOverflowCharacterIndex
-      value: 15
+      value: 12
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f1dd228a9015bd84c93e8f28861dbc84, type: 3}
