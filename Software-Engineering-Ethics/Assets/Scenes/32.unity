@@ -530,6 +530,17 @@ PrefabInstance:
       propertyPath: m_firstOverflowCharacterIndex
       value: 14
       objectReference: {fileID: 0}
+    - target: {fileID: 48911220242436603, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 714842f057a46b44a99221590fecba40,
+        type: 3}
+    - target: {fileID: 48911220242436603, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f1dd228a9015bd84c93e8f28861dbc84, type: 3}
 --- !u!1 &1632946764 stripped

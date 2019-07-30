@@ -692,6 +692,11 @@ PrefabInstance:
       propertyPath: m_firstOverflowCharacterIndex
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 8213729432165358499, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f1dd228a9015bd84c93e8f28861dbc84, type: 3}
 --- !u!1001 &7325768078224781532
