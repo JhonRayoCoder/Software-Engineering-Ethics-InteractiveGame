@@ -20,7 +20,7 @@ public class Manager : MonoBehaviour
         "Las autoridades han notado tu intento de plagio al robar el aplicativo, al empezar el proceso judicial se piden los archivos de desarrollo del proyecto, sin embargo un compañero de trabajo se anticipó a la situación y decidió eliminar tales archivos, tú sabes quién lo hizo.",
         "El cliente ha decidido contratarlos a pesar de no tener el conocimiento, les pide obtenerlo y les da tiempo extra con el fin de tener su aplicativo; sin embargo al terminar el proyecto se dan cuenta que uno de los requerimientos del aplicativo no se cumple.",
         "Ha llegado un nuevo cliente, el quiere un aplicativo simple que sin embargo de manera indirecta promueve la contaminación del medio ambiente.",
-        "El cliente queda satisfecho y se expande el exito de la empresa. Un dia, otro cliente busca un programa para optimizar operaciones en su empresa. Sin embargo, cuando lees los " +
+        "El cliente queda satisfecho y se expande el exito de la empresa. Un dia, otro cliente busca un progrviama para optimizar operaciones en su empresa. Sin embargo, cuando lees los " +
             "requerimientos te das cuenta que el proposito es evadir impuestos.",
         "",
         "",
@@ -82,7 +82,7 @@ public class Manager : MonoBehaviour
         "Han pasado los años y ya estas cerca de retirarte. Un dia tu esposa te reclama sobre una trabajadora de la empresa, pues parece ser que te esta cayendo, sin embargo, tu sabes que eso no es asi.",
         };
 
-    private int[] finalChapterArray = { 128, 129 };
+    private int[] finalChapterArray = { 128, 129, 9, 10, 11, 12, 13, 14, 15, 17, 33, 65 };
 
     public void Start()
     {
