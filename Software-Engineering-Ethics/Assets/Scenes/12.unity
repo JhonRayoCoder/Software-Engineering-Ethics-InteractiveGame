@@ -221,7 +221,7 @@ PrefabInstance:
     - target: {fileID: 7325768078290989701, guid: 5a4374d959521f648ab5cf3958e96e25,
         type: 3}
       propertyPath: leftDecisionIsCorrect
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a4374d959521f648ab5cf3958e96e25, type: 3}
@@ -438,22 +438,22 @@ PrefabInstance:
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.characterCount
-      value: 57
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.spaceCount
-      value: 6
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.wordCount
-      value: 7
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.lineCount
-      value: 4
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
@@ -463,12 +463,12 @@ PrefabInstance:
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_text
-      value: Denunciar al cliente con las autoridades correspondientes
+      value: otra
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_firstOverflowCharacterIndex
-      value: 13
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343546994528, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
@@ -498,17 +498,17 @@ PrefabInstance:
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.characterCount
-      value: 54
+      value: 55
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.spaceCount
-      value: 7
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.wordCount
-      value: 8
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
@@ -523,12 +523,14 @@ PrefabInstance:
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_text
-      value: Realizar el proyecto sin importar el impacto ambiental
+      value: 'una decision
+
+'
       objectReference: {fileID: 0}
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_firstOverflowCharacterIndex
-      value: 12
+      value: 17
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f1dd228a9015bd84c93e8f28861dbc84, type: 3}

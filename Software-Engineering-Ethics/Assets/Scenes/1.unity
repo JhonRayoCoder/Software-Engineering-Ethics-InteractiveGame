@@ -657,6 +657,41 @@ PrefabInstance:
       propertyPath: m_MatchWidthOrHeight
       value: 0.79
       objectReference: {fileID: 0}
+    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_text
+      value: Hacer la aplicacion solicitada por el cliente
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.spaceCount
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.pageCount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_firstOverflowCharacterIndex
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f1dd228a9015bd84c93e8f28861dbc84, type: 3}
 --- !u!1001 &7325768078224781532
