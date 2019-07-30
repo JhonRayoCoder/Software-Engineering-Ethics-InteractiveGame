@@ -435,66 +435,6 @@ PrefabInstance:
       propertyPath: m_MatchWidthOrHeight
       value: 0.79
       objectReference: {fileID: 0}
-    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.characterCount
-      value: 65
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.spaceCount
-      value: 12
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.wordCount
-      value: 13
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.lineCount
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.pageCount
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_text
-      value: Darte un tiempo con tu esposa hasta que entienda que no pasa nada
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_firstOverflowCharacterIndex
-      value: 16
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343546994528, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.characterCount
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343546994528, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.spaceCount
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343546994528, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.wordCount
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343546994528, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.lineCount
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343546994528, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.pageCount
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.characterCount
@@ -530,6 +470,31 @@ PrefabInstance:
       propertyPath: m_firstOverflowCharacterIndex
       value: 14
       objectReference: {fileID: 0}
+    - target: {fileID: 5317679343546994528, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343546994528, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.spaceCount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343546994528, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343546994528, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343546994528, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.pageCount
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 48911220242436603, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_Sprite
@@ -540,6 +505,41 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Type
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 65
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.spaceCount
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.pageCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_text
+      value: Darte un tiempo con tu esposa hasta que entienda que no pasa nada
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_firstOverflowCharacterIndex
+      value: 16
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f1dd228a9015bd84c93e8f28861dbc84, type: 3}
