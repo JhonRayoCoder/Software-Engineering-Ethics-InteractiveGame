@@ -22,7 +22,7 @@ public class Manager : MonoBehaviour
         "Ha llegado un nuevo cliente, el quiere un aplicativo simple que sin embargo de manera indirecta promueve la contaminación del medio ambiente.",
         "El cliente queda satisfecho y se expande el exito de la empresa. Un dia, otro cliente busca un progrviama para optimizar operaciones en su empresa. Sin embargo, cuando lees los " +
             "requerimientos te das cuenta que el proposito es evadir impuestos.",
-        "Esta decision ha hecho que tu empresa se encuentre en un grave aprieto legal y son acusados de evasion de impuestos por lo cual proceden a pagar la demanda y la empresa cae en quiebra ",
+        "",
         "",
         "",
         "",
