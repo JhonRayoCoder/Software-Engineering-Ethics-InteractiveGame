@@ -435,6 +435,58 @@ PrefabInstance:
       propertyPath: m_MatchWidthOrHeight
       value: 0.79
       objectReference: {fileID: 0}
+    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 79
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.spaceCount
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.pageCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_text
+      value: "Denunciar a tu compa\xF1ero de trabajo con el fin de reducir los cargos
+        contra ti."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_firstOverflowCharacterIndex
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679342680127598, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 895
+      objectReference: {fileID: 0}
+    - target: {fileID: 48911220242436603, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: a4556d17bcd9aae45b6230242ccc28e1,
+        type: 3}
+    - target: {fileID: 48911220242436603, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.characterCount
@@ -494,53 +546,6 @@ PrefabInstance:
     - target: {fileID: 5317679343546994528, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.pageCount
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.characterCount
-      value: 79
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.spaceCount
-      value: 14
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.wordCount
-      value: 15
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.lineCount
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.pageCount
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_text
-      value: "Denunciar a tu compa\xF1ero de trabajo con el fin de reducir los cargos
-        contra ti."
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_firstOverflowCharacterIndex
-      value: 15
-      objectReference: {fileID: 0}
-    - target: {fileID: 48911220242436603, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: a4556d17bcd9aae45b6230242ccc28e1,
-        type: 3}
-    - target: {fileID: 48911220242436603, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_Type
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []

@@ -430,6 +430,77 @@ PrefabInstance:
       propertyPath: m_MatchWidthOrHeight
       value: 0.79
       objectReference: {fileID: 0}
+    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 69
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.spaceCount
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_textInfo.pageCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_text
+      value: Estar de acuerdo con el socio, y copiar el programa de la competencia
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_firstOverflowCharacterIndex
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679342680127598, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 895
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317679343176632355, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 48911220242436603, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 7434a4d2c26089946948f5b3010cd4b3,
+        type: 3}
+    - target: {fileID: 48911220242436603, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 48911220242436603, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.7607844
+      objectReference: {fileID: 0}
+    - target: {fileID: 48911220242436603, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.7607844
+      objectReference: {fileID: 0}
+    - target: {fileID: 48911220242436603, guid: f1dd228a9015bd84c93e8f28861dbc84,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.7607844
+      objectReference: {fileID: 0}
     - target: {fileID: 5317679343247588038, guid: f1dd228a9015bd84c93e8f28861dbc84,
         type: 3}
       propertyPath: m_textInfo.characterCount
@@ -490,72 +561,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_textInfo.pageCount
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.characterCount
-      value: 69
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.spaceCount
-      value: 12
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.wordCount
-      value: 13
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.lineCount
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_textInfo.pageCount
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_text
-      value: Estar de acuerdo con el socio, y copiar el programa de la competencia
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343917063580, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_firstOverflowCharacterIndex
-      value: 17
-      objectReference: {fileID: 0}
-    - target: {fileID: 5317679343176632355, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 48911220242436603, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: 7434a4d2c26089946948f5b3010cd4b3,
-        type: 3}
-    - target: {fileID: 48911220242436603, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 48911220242436603, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_Color.r
-      value: 0.7607844
-      objectReference: {fileID: 0}
-    - target: {fileID: 48911220242436603, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 0.7607844
-      objectReference: {fileID: 0}
-    - target: {fileID: 48911220242436603, guid: f1dd228a9015bd84c93e8f28861dbc84,
-        type: 3}
-      propertyPath: m_Color.b
-      value: 0.7607844
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f1dd228a9015bd84c93e8f28861dbc84, type: 3}
